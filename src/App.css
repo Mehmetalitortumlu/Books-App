@@ -1,38 +1,123 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+i {
+  cursor: pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ul,
+li {
+  list-style: none;
 }
 
-.App-header {
-  background-color: #282c34;
+a {
+  text-decoration: none;
+}
+
+/* App */
+#dark {
+  background: rgb(182, 174, 174);
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#light {
+  background: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+
+
+/* Header */
+
+.ul-list>li {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.ul-list>li:hover {
+  text-decoration: underline;
+}
+
+
+.fa-linkedin {
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.fa-linkedin:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.fa-youtube {
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.fa-youtube:hover {
+  cursor: pointer;
+  color: red;
+}
+
+.fa-whatsapp {
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.fa-whatsapp:hover {
+  cursor: pointer;
+  color: green;
+}
+
+
+/* Navbar */
+
+#navbar-input {
+  width: 500px;
+}
+
+.nav-item {
+  margin-left: 75px !important;
+}
+
+.fa-star:hover {
+  color: blue;
+}
+
+.fa-basket-shopping:hover {
+  color: blue;
+}
+
+@media only screen and (max-width: 700px) {
+  .headers{
+    display: none;
   }
 }
+
+
+.circle{
+  list-style: circle;
+}
+
+.card-title{
+  border-bottom: 1px solid black;
+}
+.card-title:hover{
+  
+  text-decoration: underline;
+}
+
+.fw-bold{
+  border-bottom: 1px solid black;
+}
+
+
+.books-div:hover{
+  border-top: 10px solid  rgb(182, 174, 174);
+}
+
+
+
+/* Booksdetail */

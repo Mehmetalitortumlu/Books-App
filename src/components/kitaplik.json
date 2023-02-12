@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "title": "Kürk Mantolu Madonna ",
+        "content": "İlk baskısı 1943 yılında basıldı. Basıldığı günden bu yana 1 milyondan fazla satan kitap üzerine, birçok araştırma ve inceleme yapılmış, hakkında tezler yazılmış, fakat bu başarısının sırrı tam olarak çözülememiştir.",
+        "price": "12.35 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000058245-1.jpg",
+        "adet":1,
+        "yazar":"Sabahattin Ali"
+    },
+    {
+        "id": 2,
+        "title": "Harry Potter ve Ateş Kadehi",
+        "content": "Harry Potter dizisinin dördüncü kitabı Harry Potter ve Ateş Kadehi, Hogwarts Cadılık ve Büyücülük Okulu'nda dördüncü sınıfa geçen Harry'nin başından geçenleri konu alıyor.",
+        "price": "66.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000110898-1.jpg",
+        "adet":1,
+        "yazar":"J.K Rowling"
+    },
+    {
+        "id": 3,
+        "title": "Harry Potter ve Sırlar Odası",
+        "content": "Bir komplo var, Harry Potter. Bu yıl Hogwarts Cadılık ve Büyücülük Okulu'nda dehşet verici şeyler yapmak için bir komplo.",
+        "price": "48.75 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000105931-1.jpg",
+        "adet":1,
+        "yazar":"J.K Rowling"
+    },
+    {
+        "id": 4,
+        "title": "Harry Potter ve Zümrüdüanka Yoldaşlığı",
+        "content": "Kanıtlar, bazen, zihninin en rahat ve etkiye en açık olduğu durumlarında -örneğin uyurken- Karanlık Lord'un düşüncelerini ve duygularını paylaştığına işaret ediyor. Müdür bunun devam etmesini uygun bulmuyor. Benim sana, zihnini Karanlık Lord'a karşı nasıl kapatacağını öğretmemi istiyor.",
+        "price": "85.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000141001-1.jpg",
+        "adet":1,
+        "yazar":"J.K Rowling"
+    },
+    {
+        "id": 5,
+        "title": "Yüzüklerin Efendisi - II - İki Kule",
+        "content": "Macera, son hız devam ediyor! Yüzüklerin Efendisi – İki Kule, efsane serinin ikinci kitabı olarak okurlarıyla buluşuyor. Yazar John Ronald Reuel Tolkien’in unutulmaz serisi, okurlarını fantastik ve macera dolu bir dünyaya yolculuğa çıkarıyor.",
+        "price": "115.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000070718-1.jpg",
+        "adet":1,
+        "yazar":"J. R. R. Tolkien"
+    },
+    {
+        "id": 6,
+        "title": "Hepimiz Gökyüzü Olmak İstedik - Krallar ve Soytarıları",
+        "content": "Erkekler savaşı başlatır, kadınlar mücadele eder, kazanır ya da kaybederler; zaferleri erkekler kutlar, ziyafeti kadınlar hazırlar ve sonra erkeklere hizmet ederler.",
+        "price": "105.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0001959039001-1.jpg",
+        "adet":1,
+        "yazar":"NG-Kabal"
+    },
+    {
+        "id": 7,
+        "title": "Kar Küresi",
+        "content": "Hava soğuktu, rüzgâr acımasız. Burası bir kar küresiydi, biz de içindeki figürler. Gün gelecekti, birileri bu kar küresini eline alıp sallayacaktı. Kar yağıyor sanacaktık oysa altüst olacaktık... ",
+        "price": "65.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0001872390001-1.jpg",
+        "adet":1,
+        "yazar":"Beyza Alkoç"
+    },
+    {
+        "id": 8,
+        "title": "Red Kit 40 ",
+        "content": "Red Kit 40 - Arizona Red kit arizona yaşadığı birbirinden güzel 40 tane mecerayı anlatan bu kitap cok fazla beğenildi.",
+        "price": "35.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000516074-1.jpg",
+        "adet":1,
+        "yazar":"Anonim"
+    },
+    {
+        "id": 9,
+        "title": "One-Punch Man Cilt 1-Tek Yumruk",
+        "content": "İlk bakışta, Saitama bir süper kahraman gibi görünmüyor asla; ne kel kafasındaki ruhsuz yüz ifadesi ne de en ufak bir etkileyiciliği olmayan fiziği. ",
+        "price": "25.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000721220-1.jpg",
+        "adet":1,
+        "yazar":"Anonim"
+    },
+    {
+        "id": 10,
+        "title": "Death Note - Ölüm Defteri 5",
+        "content": "Japon çizgi romanlarına verilen isim olan Manga, dünyada bir çılgınlık halini almıştır. Death Note (Ölüm Defteri) yayınladığı bütün ülkelerde satış rekorları kıran ve geniş bir hayran kitlesine sahip en önemli manga serilerinden biridir. ",
+        "price": "15.00 TL",
+        "img": "https://i.dr.com.tr/cache/600x600-0/originals/0000000377210-1.jpg",
+        "adet":1,
+        "yazar":"Anonim"
+    },
+    {
+        "id": 11,
+        "title": "Edip Yüksel'e 114 Mektup",
+        "content": "Bu kitapta okuyacağınız mektuplar Kuran’a dönüş öykülerinin 114 farklı versiyonunu içeriyor. Ateist, agnostik, deist, Sünni, Şii, Hıristiyan, Yahudi ve bunların alt kolları durumundaki onlarca farklı mezhepten ve anlayıştan insanın yazdığı binlerce mektubun arasından seçilen bu hikâyeler Kuran mesajının nasıl dalga dalga yayıldığını gösteren küçük bir örnek niteliğinde. ",
+        "price": "125.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0001733673001-1.jpg",
+        "adet":1,
+        "yazar":"Edip Yüksel"
+    }
+]
