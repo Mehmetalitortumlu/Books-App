@@ -12,7 +12,7 @@ function Basket() {
         setBasket(newList);
         toast.success("silme işlemi başarlı")
     };
-
+    
     return (
         <div className="container">
             <div className="row">
