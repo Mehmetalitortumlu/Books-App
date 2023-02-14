@@ -2,7 +2,7 @@ import React from 'react'
 import { useBasket } from '../context/BasketContext'
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-
+// bu bir açıklama satırı
 function Basket() {
     const { basket, setBasket } = useBasket();
     console.log(basket.length);
