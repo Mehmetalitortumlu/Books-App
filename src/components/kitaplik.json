@@ -5,8 +5,8 @@
         "content": "İlk baskısı 1943 yılında basıldı. Basıldığı günden bu yana 1 milyondan fazla satan kitap üzerine, birçok araştırma ve inceleme yapılmış, hakkında tezler yazılmış, fakat bu başarısının sırrı tam olarak çözülememiştir.",
         "price": "12.35 TL",
         "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000058245-1.jpg",
-        "adet":1,
-        "yazar":"Sabahattin Ali"
+        "adet": 1,
+        "yazar": "Sabahattin Ali"
     },
     {
         "id": 2,
@@ -14,8 +14,8 @@
         "content": "Harry Potter dizisinin dördüncü kitabı Harry Potter ve Ateş Kadehi, Hogwarts Cadılık ve Büyücülük Okulu'nda dördüncü sınıfa geçen Harry'nin başından geçenleri konu alıyor.",
         "price": "66.00 TL",
         "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000110898-1.jpg",
-        "adet":1,
-        "yazar":"J.K Rowling"
+        "adet": 1,
+        "yazar": "J.K Rowling"
     },
     {
         "id": 3,
@@ -23,8 +23,8 @@
         "content": "Bir komplo var, Harry Potter. Bu yıl Hogwarts Cadılık ve Büyücülük Okulu'nda dehşet verici şeyler yapmak için bir komplo.",
         "price": "48.75 TL",
         "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000105931-1.jpg",
-        "adet":1,
-        "yazar":"J.K Rowling"
+        "adet": 1,
+        "yazar": "J.K Rowling"
     },
     {
         "id": 4,
@@ -32,8 +32,8 @@
         "content": "Kanıtlar, bazen, zihninin en rahat ve etkiye en açık olduğu durumlarında -örneğin uyurken- Karanlık Lord'un düşüncelerini ve duygularını paylaştığına işaret ediyor. Müdür bunun devam etmesini uygun bulmuyor. Benim sana, zihnini Karanlık Lord'a karşı nasıl kapatacağını öğretmemi istiyor.",
         "price": "85.00 TL",
         "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000141001-1.jpg",
-        "adet":1,
-        "yazar":"J.K Rowling"
+        "adet": 1,
+        "yazar": "J.K Rowling"
     },
     {
         "id": 5,
@@ -41,8 +41,8 @@
         "content": "Macera, son hız devam ediyor! Yüzüklerin Efendisi – İki Kule, efsane serinin ikinci kitabı olarak okurlarıyla buluşuyor. Yazar John Ronald Reuel Tolkien’in unutulmaz serisi, okurlarını fantastik ve macera dolu bir dünyaya yolculuğa çıkarıyor.",
         "price": "115.00 TL",
         "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000070718-1.jpg",
-        "adet":1,
-        "yazar":"J. R. R. Tolkien"
+        "adet": 1,
+        "yazar": "J. R. R. Tolkien"
     },
     {
         "id": 6,
@@ -50,8 +50,8 @@
         "content": "Erkekler savaşı başlatır, kadınlar mücadele eder, kazanır ya da kaybederler; zaferleri erkekler kutlar, ziyafeti kadınlar hazırlar ve sonra erkeklere hizmet ederler.",
         "price": "105.00 TL",
         "img": "https://i.dr.com.tr/cache/500x400-0/originals/0001959039001-1.jpg",
-        "adet":1,
-        "yazar":"NG-Kabal"
+        "adet": 1,
+        "yazar": "NG-Kabal"
     },
     {
         "id": 7,
@@ -59,8 +59,8 @@
         "content": "Hava soğuktu, rüzgâr acımasız. Burası bir kar küresiydi, biz de içindeki figürler. Gün gelecekti, birileri bu kar küresini eline alıp sallayacaktı. Kar yağıyor sanacaktık oysa altüst olacaktık... ",
         "price": "65.00 TL",
         "img": "https://i.dr.com.tr/cache/500x400-0/originals/0001872390001-1.jpg",
-        "adet":1,
-        "yazar":"Beyza Alkoç"
+        "adet": 1,
+        "yazar": "Beyza Alkoç"
     },
     {
         "id": 8,
@@ -68,8 +68,8 @@
         "content": "Red Kit 40 - Arizona Red kit arizona yaşadığı birbirinden güzel 40 tane mecerayı anlatan bu kitap cok fazla beğenildi.",
         "price": "35.00 TL",
         "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000516074-1.jpg",
-        "adet":1,
-        "yazar":"Anonim"
+        "adet": 1,
+        "yazar": "Anonim"
     },
     {
         "id": 9,
@@ -77,8 +77,8 @@
         "content": "İlk bakışta, Saitama bir süper kahraman gibi görünmüyor asla; ne kel kafasındaki ruhsuz yüz ifadesi ne de en ufak bir etkileyiciliği olmayan fiziği. ",
         "price": "25.00 TL",
         "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000721220-1.jpg",
-        "adet":1,
-        "yazar":"Anonim"
+        "adet": 1,
+        "yazar": "Anonim"
     },
     {
         "id": 10,
@@ -86,16 +86,43 @@
         "content": "Japon çizgi romanlarına verilen isim olan Manga, dünyada bir çılgınlık halini almıştır. Death Note (Ölüm Defteri) yayınladığı bütün ülkelerde satış rekorları kıran ve geniş bir hayran kitlesine sahip en önemli manga serilerinden biridir. ",
         "price": "15.00 TL",
         "img": "https://i.dr.com.tr/cache/600x600-0/originals/0000000377210-1.jpg",
-        "adet":1,
-        "yazar":"Anonim"
+        "adet": 1,
+        "yazar": "Anonim"
     },
     {
         "id": 11,
-        "title": "Edip Yüksel'e 114 Mektup",
-        "content": "Bu kitapta okuyacağınız mektuplar Kuran’a dönüş öykülerinin 114 farklı versiyonunu içeriyor. Ateist, agnostik, deist, Sünni, Şii, Hıristiyan, Yahudi ve bunların alt kolları durumundaki onlarca farklı mezhepten ve anlayıştan insanın yazdığı binlerce mektubun arasından seçilen bu hikâyeler Kuran mesajının nasıl dalga dalga yayıldığını gösteren küçük bir örnek niteliğinde. ",
-        "price": "125.00 TL",
-        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0001733673001-1.jpg",
-        "adet":1,
-        "yazar":"Edip Yüksel"
+        "title": "Şeker Portakalı",
+        "content": "Jose Mauro De Vasconcelos. ",
+        "price": "48.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000064031-1.jpg",
+        "adet": 1,
+        "yazar": "Jose Mauro De Vasconcelos"
+    },
+    {
+        "id": 12,
+        "title": "Sefiller - Dünya Klasikleri",
+        "content": "Özen gösterilen dış görünüş cilalanıyor, dışarıdan bakıldığında herkes kusursuz. Oysa vicdanlarının derinliklerinde lağımlar, çirkef kuyuları var. Bu döneme şu nitelemeyi bahşediyorum: Kirli temizlik. On dokuzuncu yüzyılın en büyük eserlerinden biri kabul edilen, sinemaya da uyarlanan, Fransız edebiyatının gelmiş geçmiş en büyük yazarlarından Victor Hugo tarafından kaleme alınmış Sefiller, yoksulluk içinde yaşayan toplumun en alt tabakasının romanıdır. Sefiller bir merhamet kitabıdır, kendisine fazlasıyla sevdalı ve ölümsüz kardeşlik yasasını pek az dert eden bir topluma sersemletici bir hizaya gelme çağrısıdır... CHARLES BAUDELAIRE ",
+        "price": "55.00 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0002026788001-1.jpg",
+        "adet": 1,
+        "yazar": "Victor Hugo"
+    },
+    {
+        "id": 13,
+        "title": "1984",
+        "content": "Distopya olarak nitelendirilen George Orwell’ın bu şahane eseri, geçmişin aslında ne kadar da gelecekten izler taşıdığını ortaya koyuyor. 1948’de kaleme aldığı bu eser ile Orwell, günümüz modern dünyasına bir protesto bırakıyor. Her ne kadar kitabında 1984 yılını tasvir etse de kitabın derinliklerinde bugünden izler de bulabilmeniz mümkün. Bu durumda elbette ki George Orwell’ın ileri görüşlülüğü etkili.",
+        "price": "35.50 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000064038-1.jpg",
+        "adet": 1,
+        "yazar": "George Orwell "
+    },
+    {
+        "id": 14,
+        "title": "Satranç",
+        "content": "Satranç, “İncecik bir kitaba, tarihin en büyük acılarını sığdırmak mümkün müdür?” sorusunun cevabı niteliğini taşıyor. Avusturyalı Yazar Stefan Zweig tarafından 1942 yılında kaleme alınan eser, sembolik ve özlü anlatımıyla II. Dünya Savaşı’nın tüm yıkıcılığını dile getiriyor. Satranç, aynı adı aldığı tarihi oyunun sembolik ögelerini taşıyor. Savaş alanı ve birbirlerini akıl dolu hamlelerle yenmeye çalışan iki taraf… Kitabın olay örgüsü, bir gemide yapılan satranç düellosu etrafında şekilleniyor. Biri var olmak, diğeri ise yok olmamak için satranca sarılmış olan iki rakibin bu anlam dolu çekişmesinde, yakın tarihe dair derin izler bulacaksınız.",
+        "price": "35.50 TL",
+        "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000402142-1.jpg",
+        "adet": 1,
+        "yazar": "Stefan Zweig "
     }
 ]
