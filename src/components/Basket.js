@@ -5,7 +5,6 @@ import 'react-toastify/dist/ReactToastify.css';
 // bu bir açıklama satırı
 function Basket() {
     const { basket, setBasket } = useBasket();
-    console.log(basket.length);
 
     const removeBasket = (todoIndex) => {
         const newList = basket.filter((_, index) => index != todoIndex);

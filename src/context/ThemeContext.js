@@ -7,7 +7,7 @@ export const ThemeProvider = ({ children }) => {
 
     useEffect(() => {
         let themes = localStorage.getItem("theme")
-        setTheme(JSON.parse(themes))
+        setTheme(JSON.parse(themes) || "dark")
     }, []);
 
     useEffect(() => {

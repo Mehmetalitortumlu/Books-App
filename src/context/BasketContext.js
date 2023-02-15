@@ -3,9 +3,12 @@ import Books from '../components/kitaplik.json';
 
 const BasketContext = createContext();
 
+const defaultBasket = JSON.parse(localStorage.getItem("basket")) || [];
+
 export const BasketProvider = ({ children }) => {
-    const [basket, setBasket] = useState([]);
+    const [basket, setBasket] = useState(defaultBasket);
     const [books, setBooks] = useState([]);
+
 
     const [filterText, setFilterText] = useState("");
     const filtered = Books.filter((item) => {
@@ -14,10 +17,10 @@ export const BasketProvider = ({ children }) => {
         )
     });
 
-    useEffect(() => {
-        let basket1 = localStorage.getItem("basket")
-        setBasket(JSON.parse(basket1))
-    }, []);
+    // useEffect(() => {
+    //     let basket1 = localStorage.getItem("basket")
+    //     setBasket(JSON.parse(basket1))
+    // }, []);
 
     useEffect(() => {
         localStorage.setItem('basket', JSON.stringify(basket))

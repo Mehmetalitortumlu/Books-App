@@ -5,11 +5,10 @@ import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const Book = () => {
-    const { basket, setBasket, setBooks,Books,filtered } = useBasket();
+    const { basket, setBasket, setBooks,filtered } = useBasket();
     return (
         <div className='container '>
             <div className="row mt-5 ">
-
                 {filtered.map((book, i) => (
                     <div key={i} className="col-6 col-md-4 col-lg-2 mb-3 d-flex justify-content-center books-div">
                         <div className='border' style={{ width: "14rem" }}>

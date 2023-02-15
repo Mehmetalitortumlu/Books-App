@@ -1,11 +1,10 @@
 import React from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import { useBasket } from '../context/BasketContext';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 function BookDetail() {
-    const { id } = useParams();
     const { books, setBasket, basket } = useBasket();
 
     return (
@@ -14,7 +13,7 @@ function BookDetail() {
                 <div className="col-12">
                     {
                         books.map(book => (
-                            <div className='d-flex justify-content-center mt-5 '>
+                            <div key={book.id} className='d-flex justify-content-center mt-5 '>
 
                                 <div className='border p-5'>
                                     <img src={book.img} alt="resim-bulunamadı" />
